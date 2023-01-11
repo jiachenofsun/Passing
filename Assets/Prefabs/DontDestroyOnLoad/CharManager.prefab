@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8358430973244400072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8358430973244400074}
+  - component: {fileID: 8358430973244400073}
+  m_Layer: 0
+  m_Name: CharManager
+  m_TagString: DoNotDestroy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8358430973244400074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8358430973244400072}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.9440775, y: -1.0815793, z: -2187.1772}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8358430973244400073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8358430973244400072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e225f8b4030044c5abd086d97bf0564, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allCharacterGameObjects:
+  - {fileID: 4235021268125417880, guid: bcb65337334e44b05bc22268cea51085, type: 3}
+  - {fileID: 4841950020778385997, guid: 7c3896dacb5084fd191f8b62ed135040, type: 3}
+  - {fileID: 2455836283027270278, guid: 931c9ce0660ad4ff3bcfd5eedc0700a5, type: 3}
+  - {fileID: 7955464022109908533, guid: 85b7020fea6454133a9a53daf13e9015, type: 3}
+  - {fileID: 1131866176425178679, guid: 874b92625bcff4be99130ffb6f65bd32, type: 3}
+  - {fileID: 4841950020778385997, guid: 444111e64745746f68e4307517994e28, type: 3}
+  - {fileID: 2455836283027270278, guid: 81c6591325ff4414594b7e22555c8472, type: 3}
+  - {fileID: 2455836283027270278, guid: 678012527c2894aa99cca0613424c92e, type: 3}
+  allScenesDefaultCharacters:
+  - defaultCharacters: []
+  - defaultCharacters:
+    - charID: 0
+      defaultPosn: {x: -3.58, y: 10.98}
+      defaultItems: 
+  - defaultCharacters:
+    - charID: 1
+      defaultPosn: {x: 5.67, y: -6.72}
+      defaultItems: 
+    - charID: 6
+      defaultPosn: {x: -6.618063, y: -8.092773}
+      defaultItems: 
+  - defaultCharacters:
+    - charID: 2
+      defaultPosn: {x: 2.62, y: 1.441723}
+      defaultItems: 
+  - defaultCharacters:
+    - charID: 3
+      defaultPosn: {x: 10.8, y: -6.25}
+      defaultItems: 
+    - charID: 4
+      defaultPosn: {x: 14.9249, y: -3.058423}
+      defaultItems: 01000000
+  - defaultCharacters:
+    - charID: 5
+      defaultPosn: {x: 1.49, y: -3.23}
+      defaultItems: 
+  - defaultCharacters:
+    - charID: 7
+      defaultPosn: {x: 14.67352, y: -4.007492}
+      defaultItems: 
+  detectionRadiusArray: 
+  resistPossessionArray: 

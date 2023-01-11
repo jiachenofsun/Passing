@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 24c551f9f98674608a427696f4cd030a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5566438840188550680
+    second: cemetery_wall_texture._0
+  - first:
+      213: -5881639249251841185
+    second: cemetery_wall_texture._1
+  - first:
+      213: 6934096458282963817
+    second: cemetery_wall_texture._2
+  - first:
+      213: 3175764693371421592
+    second: cemetery_wall_texture._3
+  - first:
+      213: -3581318756434642082
+    second: cemetery_wall_texture._4
+  - first:
+      213: -9171773423047117228
+    second: cemetery_wall_texture._5
+  - first:
+      213: 2745516858847695046
+    second: cemetery_wall_texture._6
+  - first:
+      213: 5979378484049442064
+    second: cemetery_wall_texture._7
+  - first:
+      213: 4268963570349527444
+    second: cemetery_wall_texture._8
+  - first:
+      213: -7142986643105458631
+    second: cemetery_wall_texture._9
+  - first:
+      213: 6598261093401222555
+    second: cemetery_wall_texture._10
+  - first:
+      213: -6071198479299199431
+    second: cemetery_wall_texture._11
+  - first:
+      213: -6348908776061058099
+    second: cemetery_wall_texture._12
+  - first:
+      213: 5017312431318463926
+    second: cemetery_wall_texture._13
+  - first:
+      213: -1733284957714996186
+    second: cemetery_wall_texture._14
+  - first:
+      213: -9059751145147725262
+    second: cemetery_wall_texture._15
+  - first:
+      213: 2532001055536486892
+    second: cemetery_wall_texture._16
+  - first:
+      213: -9029287265102486589
+    second: cemetery_wall_texture._17
+  - first:
+      213: -4463743120170268398
+    second: cemetery_wall_texture._18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cemetery_wall_texture._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 26}
+        - {x: -24, y: 26}
+        - {x: -27, y: 25}
+        - {x: -27, y: -30}
+        - {x: -27, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: 26}
+        - {x: 29, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cf9afd5900c2b0800000000000000
+      internalID: -5566438840188550680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 26}
+        - {x: -32, y: -31}
+        - {x: -28, y: -31}
+        - {x: 27, y: -32}
+        - {x: 27, y: 24}
+        - {x: 25, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963104a8dfbda3060800000000000000
+      internalID: 6934096458282963817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89381a6a925921c20800000000000000
+      internalID: 3175764693371421592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27, y: -32}
+        - {x: 27, y: 32}
+        - {x: -27, y: 32}
+        - {x: -27, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45678e67aa057b080800000000000000
+      internalID: -9171773423047117228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: 21}
+        - {x: 32, y: 21}
+        - {x: 32, y: 26}
+        - {x: -30, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01571671d050bf250800000000000000
+      internalID: 5979378484049442064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49154c1dfb76e3b30800000000000000
+      internalID: 4268963570349527444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 21}
+        - {x: 32, y: 21}
+        - {x: 32, y: 26}
+        - {x: -32, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d6564e730fdc90800000000000000
+      internalID: -7142986643105458631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: 22}
+        - {x: 32, y: 22}
+        - {x: 32, y: 32}
+        - {x: -26, y: 32}
+      - - {x: -25, y: 22}
+        - {x: -25, y: 22}
+        - {x: -26, y: 22}
+        - {x: -26, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624aed8a38222f7e0800000000000000
+      internalID: -1733284957714996186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 22}
+        - {x: 32, y: 22}
+        - {x: 32, y: 26}
+        - {x: -32, y: 26}
+      - - {x: -32, y: 22}
+        - {x: -32, y: 26}
+        - {x: -32, y: 26}
+        - {x: -32, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0808855c454280800000000000000
+      internalID: -9059751145147725262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 22}
+        - {x: 26, y: 22}
+        - {x: 26, y: 32}
+        - {x: -32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99a2e7b89732320800000000000000
+      internalID: 2532001055536486892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_wall_texture._17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: 26}
+        - {x: 25, y: 26}
+        - {x: 25, y: 32}
+        - {x: -25, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3ab94521781b280800000000000000
+      internalID: -9029287265102486589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cemetery_wall_texture._16: 2532001055536486892
+      cemetery_wall_texture._2: 6934096458282963817
+      cemetery_wall_texture._17: -9029287265102486589
+      cemetery_wall_texture._0: -5566438840188550680
+      cemetery_wall_texture._8: 4268963570349527444
+      cemetery_wall_texture._5: -9171773423047117228
+      cemetery_wall_texture._9: -7142986643105458631
+      cemetery_wall_texture._15: -9059751145147725262
+      cemetery_wall_texture._3: 3175764693371421592
+      cemetery_wall_texture._14: -1733284957714996186
+      cemetery_wall_texture._7: 5979378484049442064
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
